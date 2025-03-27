@@ -10,7 +10,7 @@ En este juego controlas el cohete de un agente espacial llamado: Ramko-Poochi y 
 * Python 3.x
 * Pygame (`pip install pygame`)
 
-## Proceso :D
+## Proceso :
 
 1.  Asegúrate de tener Python y Pygame instalados.
 2.  Guarda el código en un archivo llamado `juego.py`.
